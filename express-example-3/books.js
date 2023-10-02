@@ -1,0 +1,27 @@
+module.exports = [
+  {
+    id: "1",
+    title: "JavaScript",
+    author: "Marijn",
+  },
+  {
+    id: "2",
+    title: "Practical Modern JavaScript",
+    author: "Nicolas Bevacqua",
+  },
+  {
+    id: "3",
+    title: "ECMAScript",
+    author: "Zakas",
+  },
+  {
+    id: "4",
+    title: "Speaking JavaScript",
+    author: "Axel Raunschmayer",
+  },
+  {
+    id: "5",
+    title: "Learning JavaScript",
+    author: "Haverbeke",
+  },
+];
